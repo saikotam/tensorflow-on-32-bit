@@ -11,6 +11,6 @@ The first release also has the Bazel 4.0 Binary(which again is built from source
 The build logs are attached along with the releases which include almost all the errors posible to commit by a "Newbie" with an Old PC!
 
 # Using the Binaries:
-Tensorflow .whl can be installed via pip
+Tensorflow : The .whl can be installed via pip
 
- "This binary is self-contained, so it can be copied to a directory on the PATH (e.g., /usr/local/bin) or used in-place."
+ Bazel 4.0 : "This binary is self-contained, so it can be copied to a directory on the PATH (e.g., /usr/local/bin) or used in-place."
