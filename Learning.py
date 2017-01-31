@@ -1,3 +1,4 @@
+HOME=usr/urhome KERAS_BACKEND=theano python
 # 3. Import libraries and modules
 
 import numpy as np
