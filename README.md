@@ -22,5 +22,4 @@ Tensorflow : The .whl can be installed via pip (" pip install tensorflow-0.12.1-
 Bazel 4.0 : "This binary is self-contained, so it can be copied to a directory on the PATH (e.g., /usr/local/bin) or used in-place."
 
 Successfully pip Installed Tensorflow on:
- Ubuntu 16
- Kali-Linux-2016(light/rolling version)
+ Ubuntu 16,  Kali-Linux-2016(light/rolling version)
