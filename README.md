@@ -12,9 +12,15 @@ It has been built with python2.7.
 The build logs are attached along with the releases which include almost all the errors posible to commit by a "Newbie" with an Old PC!
 
 # Using the Binaries:
+First install pip with the command: " sudo apt-get install python-pip "
+
 Download the binaries from Releases section 
 
-Tensorflow : The .whl can be installed via pip
+Tensorflow : The .whl can be installed via pip (" pip install tensorflow-0.12.1-cp27-cp27mu-linux_i686.whl ")
 #NOTE: BEFORE INSTALLATION, KEEP THE .whl file in "HOME Directory"  eg:/home/saikotam/tensorflow-0.12.1-cp27-cp27mu-linux_i686.whl and DONOT change the whl filename
 
- Bazel 4.0 : "This binary is self-contained, so it can be copied to a directory on the PATH (e.g., /usr/local/bin) or used in-place."
+Bazel 4.0 : "This binary is self-contained, so it can be copied to a directory on the PATH (e.g., /usr/local/bin) or used in-place."
+
+Successfully pip Installed Tensorflow on:
+ Ubuntu 16
+ Kali-Linux-2016(light/rolling version)
